@@ -1,0 +1,6 @@
+第一篇小论文在读期间已经完成，第二篇小论文绘图见学位论文文件夹绘图中的ppt,代码中关键模块在
+/home/cvmdsp3/opt/ship_yolo/FCM-main/ultralytics/nn/modules/mobilemamba.py中的WaveletDomainProcessing模块中，调节hf为True或False确定是噪声抑制还是区分模块
+大论文中评价指标为cocoeval指标，注意，这个指标不是yolo训练的最优转换而来的，而是每一轮都采用cocoeval评价最后得到的最优值，因为yolo评价方式得到的最优值未必是coco的最优值。完整代码见
+RTX8000文件夹:/home/cvmdsp3/opt/ship_yolo/FCM-main
+（论文中的可视化呈现方式代码也在上述文件夹中，可自行查找）
+感谢相遇！
