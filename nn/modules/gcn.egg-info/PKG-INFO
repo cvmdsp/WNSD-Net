@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: gcn
+Version: 0.1
+Summary: Gabor Convolutional Networks in pytorch
+Home-page: https://github.com/jxgu1016/Gabor_CNN_PyTorch
+Author: gujiaxin

@@ -1,0 +1,15 @@
+setup.py
+/home/cvmdsp3/opt/ship_yolo/ultralytics/ultralytics/nn/modules/gcn/csrc/vision.cpp
+/home/cvmdsp3/opt/ship_yolo/ultralytics/ultralytics/nn/modules/gcn/csrc/cpu/GOF_cpu.cpp
+/home/cvmdsp3/opt/ship_yolo/ultralytics/ultralytics/nn/modules/gcn/csrc/cuda/GOF_cuda.cu
+gcn/__init__.py
+gcn.egg-info/PKG-INFO
+gcn.egg-info/SOURCES.txt
+gcn.egg-info/dependency_links.txt
+gcn.egg-info/top_level.txt
+gcn/layers/GConv.py
+gcn/layers/GConv2.py
+gcn/layers/GConv3.py
+gcn/layers/__init__.py
+gcn/layers/gradtest.py
+gcn/layers/sspcab_torch.py
